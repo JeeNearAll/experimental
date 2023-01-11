@@ -1,0 +1,7 @@
+{
+  "parent": "experimentalmod:custom/sax",
+  "textures": {
+    "missing": "experimentalmod:blocks/texture_sax",
+    "particle": "experimentalmod:items/saxearly"
+  }
+}
